@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../reactfin"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proj1"
+	}
+}
